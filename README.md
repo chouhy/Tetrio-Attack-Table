@@ -1,5 +1,6 @@
 # Tetrio-Attack-Table
 You know that [Tetrio combo table picture](https://tetris.wiki/TETR.IO#Mechanics) is wrong?
+
 For example: 
 TSpinDouble b2bx2 combo1 should be sending 7 lines not 6.
 TSpinDouble b2bx3-7 combo1 should be sending 8 lines not 7.
