@@ -1,7 +1,7 @@
 <template>
   <Main msg="Tetrio Attack Table"/>
   <p>B2B = {{b2b}}</p>
-  <vue-number-input placeholder="Small" size="small" v-model="b2b" :min="0" :max="24" inline controls>B2B</vue-number-input>
+  <vue-number-input placeholder="Small" size="small" v-model="b2b" :min="0" inline controls>B2B</vue-number-input>
   <p>combo</p>
   <div>
   <table class="center">
