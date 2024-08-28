@@ -1,4 +1,4 @@
-# Tetrio-Attack-Table
+# Tetrio-Attack-Table S1
 You know that [Tetrio combo table picture](https://tetris.wiki/TETR.IO#Mechanics) is wrong?
 
 Now, you can get correct attack table here. https://chouhy.github.io/Tetrio-Attack-Table/
